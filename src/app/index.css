@@ -2,7 +2,7 @@
   position: relative;
   width: 100vw;
   height: 135svh;
-  overflow: hidden;
+  /* overflow: hidden; */
   background-color: #d3cec5;
 }
 

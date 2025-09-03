@@ -7,6 +7,12 @@ export const metadata = {
   description: "Monthly Website Template by Codegrid | August 2025",
 };
 
+// export const viewport: Viewport = {
+//   width: "device-width",
+//   initialScale: 1,
+//   // ... other viewport properties
+// };
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
