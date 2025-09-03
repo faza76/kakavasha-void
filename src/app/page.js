@@ -255,7 +255,7 @@ export default function Home() {
             />
           </div>
         </div>
-        <div className="hero-stats">
+        {/* <div className="hero-stats">
           <div className="container">
             <div className="stat">
               <div className="stat-count">
@@ -310,7 +310,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
       <section className="what-we-do">
         <div className="container">
