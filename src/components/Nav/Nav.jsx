@@ -254,8 +254,8 @@ const Nav = () => {
               </div>
               <div className="link">
                 <a
-                  href="/sample-space"
-                  onClick={(e) => handleLinkClick(e, "/sample-space")}
+                  href="/sample-project"
+                  onClick={(e) => handleLinkClick(e, "/sample-project")}
                 >
                   <h2>One Installation</h2>
                 </a>
